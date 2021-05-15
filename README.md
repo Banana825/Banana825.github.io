@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="utf-8">                    
@@ -50,26 +50,26 @@ div img:hover{
 	<div class="z"><img src="tb.jpg"  height="300px">
 	          <p>绿萝LUO电子烟2021年全力进军电子烟品牌市场,欢迎加盟代理，绿萝电子烟厂家货源拿货价格，绿萝电子烟目前共有两代产品，全新绿萝二代比较受欢迎，产品升级后，共6个颜色，一杆两弹。</p>
 	          <h3><em><strong>有需要购买，和了解的可以加微信18807252567。</strong></em></h3>
-<img src="1.jpg"  height="300px">
+<img src="1.jpg"  height="300px" />
 	          <p>与1代不同的是2代增加一个底部灯，造型更加时尚，质感更好。尤其是烟弹可与柚子可通用，也圈粉一波。</p>
 
 	          <h3><em><strong>有需要购买，和了解的可以加微信18807252567。</strong></em></h3>
-<img src="kw.jpg"  height="500px">
-	     <img src="tz.jpg"  height="500px">
+<img src="kw.jpg"  height="500px" />
+	     <img src="tz.jpg"  height="500px" />
 	          <p>绿萝电子烟烟弹为1盒4颗装，目前共更新有25个口味。</p>
 	          <h3><em><strong>有需要购买，和了解的可以加微信18807252567。</strong></em></h3>
 		<p><em><strong>打开微信扫描二维码询问优惠</strong></em></p>
-    <img src="wx.jpg"  height="300px"></div>
+    <img src="wx.jpg"  height="300px" /></div>
 	  <h1><em><strong>下面为部分展示图  详情扫描二维码联系</strong></em></h1>
 	<div>
-	<img src="y1.jpg"  width="24%"height="250px">
-		<img src="y2.jpg"  width="24%"height="250px">
-		<img src="y3.jpg"  width="24%"height="250px">
+	<img src="y1.jpg"  width="24%"height="250px" />
+		<img src="y2.jpg"  width="24%"height="250px" />
+		<img src="y3.jpg"  width="24%"height="250px" />
 	</div>
 	<div>
-	<img src="y4.jpg"  width="24%"height="250px">
-		<img src="y5.jpg"  width="24%"height="250px">
-		<img src="y6.jpg"  width="24%"height="250px">
+	<img src="y4.jpg"  width="24%"height="250px" />
+		<img src="y5.jpg"  width="24%"height="250px" />
+		<img src="y6.jpg"  width="24%"height="250px" />
 	</div>
 	
 
